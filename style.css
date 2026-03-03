@@ -1,0 +1,35 @@
+body{
+    font family: Arial, sans serif;
+}
+#main-header{
+    background-color: blueviolet;
+    padding: 20px;
+
+}
+#maimm-header{
+    background-color: yellowgreen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    text align: center;
+    color:white;
+
+}
+#btn-submit{
+    background-color: blueviolet;
+    color: white;
+}
+
+.container{
+        margin: 12px;
+    }
+}
+#form-kehadiran{
+    background-color: white;
+    border-radius: 8px;
+    padding : 25px;
+    box-shadow: 0px 0px 0px rgba(rgba(161, 24, 224, 0.411), green, blue, alpha);
+}
